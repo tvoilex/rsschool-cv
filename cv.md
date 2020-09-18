@@ -2,7 +2,7 @@
 ### Minsk, Belarus | mandragon99@gmail.com
 ---
 ## PERSONAL SUMMARY
-#### Like study and find something new for myself!
+#### Like study and find something new for myself
 ---
 ## SKILL
 #### GIT | NODEJS | CSS | HTML
